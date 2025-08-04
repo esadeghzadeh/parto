@@ -1,0 +1,8 @@
+Enable users to successfully book counseling sessions and resolve payment issues
+
+Replaces the session booking endpoint with payment intent and fixes permission errors.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 87b832fa-3f47-4b44-b201-4e9bb726105e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/082c23a1-c744-4741-b429-a81104e40623/87b832fa-3f47-4b44-b201-4e9bb726105e/CH55Cac
